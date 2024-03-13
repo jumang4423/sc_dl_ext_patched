@@ -2,7 +2,7 @@
   background-color: transparent;
   display: flex;
   height: 26px;
-  padding: 8px 5px;
+  padding: 2px 5px;
   border: 1px solid #e5e5e5;
   border-radius: 3px;
   justify-content: space-between;
@@ -10,7 +10,7 @@
 }
 
 .sc-download-button-small {
-  height: 20px;
+  height: 24px;
   padding: 2px 3px;
 }
 

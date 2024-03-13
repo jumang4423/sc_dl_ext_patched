@@ -44,7 +44,7 @@
     dl_logo_img = document.createElement("img");
     dl_logo_img.src = dl_logo;
     dl_logo.style =
-      "width: 24px; height: 28px; justify-content: center; align-items: center; display: flex; margin: 8px 16px;";
+      "width: 32px; height: 28px; justify-content: center; align-items: center; display: flex; margin: 8px 16px;";
     button.appendChild(dl_logo_img);
     button.style.display = "flex";
     button.style.alignItems = "center";

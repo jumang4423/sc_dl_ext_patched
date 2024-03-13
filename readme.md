@@ -4,6 +4,8 @@ soundcloud track downloader but without malicious code!
 
 ## WHAT I SIMPLY DID
 
-- excluded thirdparty url access code:
+1. excluded thirdparty url access code:
 
 ![](images/mal.png)
+
+2. removed sandbox features
